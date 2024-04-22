@@ -199,11 +199,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-<b><a href=https://t.me/Unknown_Cinema>{file_caption}</a>
+<b><a href=https://t.me/chattar_bro>{file_caption}</a>
 
 
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Cinema
-▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Unknown_Request</b>""" 
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Royelmovies
+▫️ Mᴀɪɴ Cʜᴀɴɴᴇʟ : @Royelmovies""" 
 
     FORCE_SUB = """
 **⚠️ Pʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴛʜɪs ʀᴜʟe ⚠️
